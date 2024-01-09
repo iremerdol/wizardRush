@@ -5,7 +5,7 @@ group16 CENG201 team project
 
  You should download Qt Creator from their official site. Here is the link: https://www.qt.io/download
 
- Unfortunately Qt does not give proper .exe file to just play the game on other computers. So you must install Qt Creator to open the game in your computer.
+ Unfortunately Qt does not give proper .exe file to just play because it gives some .dll file errors. So you must install Qt Creator to open the game in your computer.
  You will have to sign up to the site because it wants you to sign in while installing the application. You should select that you're not in a company so Qt gives you the community(free) version.
  Then please install Qt 6.6.0 version. For SDK please select both MinGW 64-Bit and MSVC2019 64-Bit(Visual Studio 2019). Configure the project for both of these SDKs. 
 
