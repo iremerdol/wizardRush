@@ -15,6 +15,8 @@ group16 CENG201 team project
 
  You will start the game by clicking the green start button on the bottom left of Qt Creator. When you play the game there are just arrow buttons to control players. first and third player is controlling by just up and down arrow buttons, second player is controlling by all the arrow buttons. You will also be using mouse to click the buttons on start menu, character selection menu and game over menu.
 
+ Doxygen output in the "doc" directory. You can open index.html file to open the initial page of the site.
+
  Our team members are Fatih, Zeynep, Sude Nur and İrem. We worked as a team and worked equally most of the time. Fatih drew all the visuals in the game. İrem and Fatih did most of the mechanics in the game. Zeynep and Sude helped to complete the code and implement the visuals to the code. We did several meetings to discuss all the ideas, writing the code, and making the project proposals.
 
  Our Members:
