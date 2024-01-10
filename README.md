@@ -3,7 +3,7 @@ group16 CENG201 team project
 
 -----------------------------------------------------------------------------
 
- We have our executable in the "executable" directory. When you play the game there are just arrow buttons to control players. first and third player is controlling by just up and down arrow buttons, second player is controlling by all the arrow buttons. You will also be using mouse to click the buttons on start menu, character selection menu and game over menu. But incase it does not work on your computer this is how you should open it:
+ We have our executable in the "executable" directory. When you play the game there are just arrow buttons to control players. First and third player is controlled by just up and down arrow buttons, second player is controlled by all the arrow buttons. You will also be using mouse to click the buttons on start menu, character selection menu and game over menu. But incase it does not work on your computer this is how you should open it:
  
  Firstly you should download Qt Creator from their official site. Here is the link: https://www.qt.io/download
  You will have to sign up to the site because it wants you to sign in while installing the application. You should select that you're not in a company so Qt gives you the community(free) version.
