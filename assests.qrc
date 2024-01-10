@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/blueBackground.jpg</file>
+        <file>assets/cactus.png</file>
+        <file>assets/enemy.png</file>
+        <file>assets/flyingPotter.png</file>
+        <file>assets/hermonie.png</file>
+        <file>assets/player1.png</file>
+        <file>assets/player2.png</file>
+        <file>assets/player3.png</file>
+        <file>assets/potion.png</file>
+        <file>assets/skull.png</file>
+        <file>assets/wizardE.png</file>
+        <file>assets/wizardE2.png</file>
+        <file>assets/wizardE3.png</file>
+    </qresource>
+</RCC>
