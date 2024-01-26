@@ -14,12 +14,3 @@ group16 CENG201 team project
  And for the resources first you should copy our "assets" folder to your new project file. Then you just have to right-click the project folder select "add new" again and you will see Qt please click that. you will see the qrc[Qt Resource File] if you select that Qt will create a new qrc file and open that afterwards. You should name it "assets" in order to match the parameter in the code QPixmap. After that you should click to add prefix and delete the prefix's name from the text edit portion for prefix(again to match the parameter in the code QPixmap). Then you should click to add files and select all the images in the assets file in your project and add them all. If you do that all, hopefully the project will work on your computer this time. I did this process a hundred times just because Qt Creator does not configure the project properly. Sorry, Qt is a bit of a pain :( } 
 
  Doxygen output is in the "doc" directory. I couldn't commit it without zipping it, so please unzip it. You can open index.html file to open the initial page of the site.
-
- Our team members are Fatih, Zeynep, Sude Nur and İrem. We worked as a team and worked equally most of the time. Fatih drew all the visuals in the game. İrem and Fatih did most of the mechanics in the game. Zeynep and Sude helped to complete the code and implement the visuals to the code. We did several meetings to discuss all the ideas, writing the code, and making the project proposals.
-
- Our Members:
- Muhammed Fatih Erdem 20050111023
- İrem Erdöl 21050111055
- Sude Nur Kibaroğlu 21050111059
- Zeynep Gökdoğan 20050111021
- 
